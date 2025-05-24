@@ -1,0 +1,28 @@
+# Fichiers objets et binaires
+*.o
+*.mod
+*.smod
+*.lst
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# Fichiers temporaires
+*~
+*.tmp
+*.log
+*.bak
+
+# Dossiers de build
+/build/
+/bin/
+/obj/
+
+# Fichiers spécifiques aux IDEs (optionnel)
+.vscode/
+*.vscode/
+.idea/
+*.swp
